@@ -237,6 +237,10 @@ export const clinic = {
     {
       src: "/images/hero.webp",
       alt: "Meyen Estética Avanzada - Imagen 1"
+    },
+    {
+      src: "/images/gallery/equipo.webp",
+      alt: "Meyen Estética Avanzada - Equipo"
     }
   ],
   faq: [
